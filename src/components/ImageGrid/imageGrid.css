@@ -1,0 +1,11 @@
+.static-fab {
+  position: static !important;
+  margin: 10px;
+  width: 30px;
+}
+
+.navBtn {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
